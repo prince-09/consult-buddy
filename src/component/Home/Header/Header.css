@@ -33,7 +33,7 @@
     margin: 0.5rem 0 1rem
 }
 .branBtn {
-    background: #7355F7;
+    background: #02ac6b;
     padding: 18px 35px;
     display: inline-block;
     border-radius: 50px;
@@ -50,7 +50,7 @@
     background-color: #4B24F5;
 }
 .headerHighlight {
-    color: #7355F7;
+    color: #02ac6b;
 }
 
 @media (max-width: 981px) {
